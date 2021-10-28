@@ -1,0 +1,13 @@
+{
+ "g_intertitial" : "/6499/example/interstitial",
+  "g_native" :  "/6499/example/native",
+  "g_open" : "/6499/example/app-open",
+  "g_banner" : "/6499/example/banner",
+  "g_rewarded" : "/21775744923/example/rewarded_interstitial",
+  
+   "adx_intertitial" : "/6499/example/interstitial",
+   "adx_native" :  "/6499/example/native",
+  "adx_open" : "/6499/example/app-open",
+  "adx_banner" : "/6499/example/banner",
+  "adx_rewarded" : "/21775744923/example/rewarded_interstitial"
+}
