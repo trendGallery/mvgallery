@@ -1,8 +1,8 @@
 {
- "g_intertitial" : "ca-app-pub-8321527755368022/9280802183",
+ "g_intertitial" : "/6499/example/interstitial",
   "g_native" :  "/6499/example/native",
   "g_open" : "ca-app-pub-8321527755368022/1104148164",
-  "g_banner" : "ca-app-pub-8321527755368022/1593883857",
+  "g_banner" : "/6499/example/banner",
   "g_rewarded" : "ca-app-pub-8321527755368022/9351247426",
   
    "adx_intertitial" : "/6499/example/interstitial",
