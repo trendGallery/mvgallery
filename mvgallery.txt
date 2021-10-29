@@ -5,7 +5,7 @@
   "g_banner" : "/6499/example/banner",
   "g_rewarded" : "ca-app-pub-8321527755368022/9351247426",
   
-   "adx_intertitial" : "/6499/example/interstitial",
+   "adx_intertitial" : "ca-app-pub-8321527755368022/9280802183",
    "adx_native" :  "/6499/example/native",
   "adx_open" : "/6499/example/app-open",
   "adx_banner" : "/6499/example/banner",
