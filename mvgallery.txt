@@ -9,7 +9,7 @@
    "adx_native" :  "/6499/example/native",
   "adx_open" : "/6499/example/app-open",
   "adx_banner" : "/6499/example/banner",
-  "adx_rewarded" : "/21775744923/example/rewarded_interstitial"
+  "adx_rewarded" : "/21775744923/example/rewarded_interstitial",
   "on_back_show" : 1
 }
 
