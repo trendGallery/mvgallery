@@ -1,16 +1,16 @@
 {
- "g_intertitial" : "/6499/example/interstitial",
+ "g_intertitial" : "ca-app-pub-8321527755368022/9280802183",
   "g_native" :  "/6499/example/native",
   "g_open" : "ca-app-pub-8321527755368022/1104148164",
-  "g_banner" : "/6499/example/banner",
+  "g_banner" : "ca-app-pub-8321527755368022/1593883857",
   "g_rewarded" : "ca-app-pub-8321527755368022/9351247426",
   
-   "adx_intertitial" : "ca-app-pub-8321527755368022/9280802183",
+   "adx_intertitial" : "/6499/example/interstitial",
    "adx_native" :  "/6499/example/native",
   "adx_open" : "/6499/example/app-open",
   "adx_banner" : "/6499/example/banner",
-  "adx_rewarded" : "/21775744923/example/rewarded_interstitial",
-  "on_back_show" : 0
+  "adx_rewarded" : "/6499/example/rewarded",
+  "on_back_show" : 1
 }
 
 1 = show
