@@ -10,7 +10,7 @@
   "adx_open" : "/6499/example/app-open",
   "adx_banner" : "/6499/example/banner",
   "adx_rewarded" : "/6499/example/rewarded",
-  "on_back_show" : 0
+  "on_back_show" : 1
 }
 
 1 = show
