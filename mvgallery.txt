@@ -5,11 +5,11 @@
   "g_banner" : "ca-app-pub-8321527755368022/1593883857",
   "g_rewarded" : "ca-app-pub-8321527755368022/9351247426",
   
-   "adx_intertitial" : "/6499/example/interstitial",
+   "adx_intertitial" : "/22387492205,22643404291/com.newtrendgalery.privatephotomanager.matunziogallery.Interstitial0.1637152837",
    "adx_native" :  "/6499/example/native",
-  "adx_open" : "/6499/example/app-open",
-  "adx_banner" : "/6499/example/banner",
-  "adx_rewarded" : "/6499/example/rewarded",
+  "adx_open" : "/22387492205,22643404291/com.newtrendgalery.privatephotomanager.matunziogallery.AppOpen0.1637152859",
+  "adx_banner" : "/22387492205,22643404291/com.newtrendgalery.privatephotomanager.matunziogallery.Banner0.1637152804",
+  "adx_rewarded" : "/22387492205,22643404291/com.newtrendgalery.privatephotomanager.matunziogallery.Rewarded0.1637207955",
   "on_back_show" : 1
 }
 
